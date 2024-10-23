@@ -1,4 +1,1 @@
-"# Olympics-logo" 
-"# Olympics-logo" 
-"# Olympics-logo" 
-"# Olympics-logo" 
+A simple Olympics logo using using graphic.h in C++
